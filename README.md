@@ -40,20 +40,8 @@ Users can click on any talk thumbnail to instantly watch the TEDx video without 
 
 ---
 
-## 📂 Project Structure
-project-folder
+##Screenshot
 
-│
-
-├── media.py # Defines Talk class
-
-├── ideaStream.py # Stores TEDx talk data
-
-├── tedxcurated.py # Generates HTML page
-
-├── tedxcurated.html # Output webpage
-
-└── README.md # Project documentation
 
 
 ---
