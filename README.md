@@ -40,8 +40,8 @@ Users can click on any talk thumbnail to instantly watch the TEDx video without 
 
 ---
 
-##Screenshot
-
+## Screenshot
+![TEDX_Talks](https://github.com/KashaveniSruthi/TEDX_Talks/blob/main/TEDX_Talks.jpeg)
 
 
 ---
