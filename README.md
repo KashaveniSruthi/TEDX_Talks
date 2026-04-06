@@ -47,7 +47,7 @@ project-folder
 
 ├── media.py # Defines Talk class
 
-├── entertainment.py # Stores TEDx talk data
+├── ideaStream.py # Stores TEDx talk data
 
 ├── tedxcurated.py # Generates HTML page
 
